@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<words>
+
+    <word id="1">
+        <spanish>hola</spanish>
+        <english>hello</english>
+        <french>bonjour</french>
+    </word>
+
+    <word id="2">
+        <spanish>adios</spanish>
+        <english>goodbye</english>
+        <french>au revoir</french>
+    </word>
+
+    <word id="3">
+        <spanish>gracias</spanish>
+        <english>thank you</english>
+        <french>merci</french>
+    </word>
+
+    <word id="4">
+        <spanish>por favor</spanish>
+        <english>please</english>
+        <french>s'il vous plaît</french>
+    </word>
+    
+<word id="5">
+        <spanish>queso</spanish>
+        <english>chess</english>
+    <french>fromage</french>
+    </word>
+<word id="6">
+        <spanish>palabra</spanish>
+        <english>word</english>
+        <french>worddddddddd</french>
+    </word>
+<word id="7">
+        <spanish>tarea</spanish>
+        <english>task</english>
+        <french>tarea en frances</french>
+    </word>
+<word id="8">
+        <spanish>teclado</spanish>
+        <english>keyboard</english>
+        <french>teclado en frances</french>
+    </word>
+</words>

@@ -1,0 +1,51 @@
+{
+  "words" : [ {
+    "word" : "tarea",
+    "translates" : {
+      "english" : "task",
+      "french" : "tarea en frances"
+    }
+  }, {
+    "word" : "casa",
+    "translates" : {
+      "english" : "house",
+      "french" : "maison"
+    }
+  }, {
+    "word" : "queso",
+    "translates" : {
+      "english" : "chess",
+      "french" : "pp"
+    }
+  }, {
+    "word" : "perro",
+    "translates" : {
+      "english" : "dog",
+      "french" : "asdeqweqw"
+    }
+  }, {
+    "word" : "teclado",
+    "translates" : {
+      "english" : "keyboard",
+      "french" : "teclado en frances"
+    }
+  }, {
+    "word" : "palabra",
+    "translates" : {
+      "english" : "qqqqq",
+      "french" : "wwwwwwwwww"
+    }
+  }, {
+    "word" : "hola",
+    "translates" : {
+      "english" : "hello",
+      "french" : "bonjour"
+    }
+  }, {
+    "word" : "adios",
+    "translates" : {
+      "english" : "goodbye",
+      "french" : "au revoir"
+    }
+  } ]
+}
